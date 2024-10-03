@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
         return bitmap;
     }
 
-    // Guardar el estado de la imagen -test
+    // Guardar el estado de la imagen -test2
     @Override
     protected void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
